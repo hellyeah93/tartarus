@@ -1,0 +1,14 @@
+{
+  "name": "tartarus-campaign-grid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tartarus campaign grid - 90 day routine tracker",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5"
+  }
+}
